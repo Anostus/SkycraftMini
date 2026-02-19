@@ -7,7 +7,7 @@ It aims to recreate the “Skyblock / SkyFactory” vibe from Minecraft: you beg
 
 - **Skyblock start:** You spawn in the void on a small wooden platform with a single patch of dirt and a dirt tree. There’s no surrounding land to mine. Your early game is all about steadily expanding your safe area.
 - **Starter kit:** You begin with a few purpose-built items to kickstart progression:
-  - **Time Wand** — speeds up saplings aging into trees when you hit them with it, helping you recover from mistakes and reduce early-game waiting.
+  - **Time Wand** — speeds up saplings aging into trees when you hit them with it, helping you reduce early-game waiting.
   - **Basic Crafting Bench** — a limited bench that can only craft an *Advanced Crafting Bench*, nudging you into the intended upgrade path.
   - **Power Glove** — lets you lift and move furniture, making it easier to reorganize tight builds and early workspaces.
 - **Special tree progression loop:** Progress revolves around crafting and growing increasingly valuable tree types (**dirt → sand and stone → iron → gold → gem**) each producing its matching resource/block.  
